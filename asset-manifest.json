@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rad5app/static/css/main.e6c13ad2.css",
+    "main.js": "/rad5app/static/js/main.45014757.js",
+    "index.html": "/rad5app/index.html",
+    "main.e6c13ad2.css.map": "/rad5app/static/css/main.e6c13ad2.css.map",
+    "main.45014757.js.map": "/rad5app/static/js/main.45014757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45014757.js"
+  ]
+}
